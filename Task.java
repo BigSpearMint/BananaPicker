@@ -1,5 +1,6 @@
 package BananaPicker;
 
+import org.powerbot.script.Condition;
 import org.powerbot.script.rt4.ClientAccessor;
 import org.powerbot.script.rt4.ClientContext;
 
