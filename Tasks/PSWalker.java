@@ -1,5 +1,7 @@
-package BananaPicker;
+package BananaPicker.Tasks;
 
+import BananaPicker.BananaPicker;
+import BananaPicker.Task;
 import org.powerbot.script.rt4.ClientContext;
 
 public class PSWalker extends Task{

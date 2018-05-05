@@ -1,5 +1,7 @@
-package BananaPicker;
+package BananaPicker.Tasks;
 
+import BananaPicker.BananaPicker;
+import BananaPicker.Task;
 import org.powerbot.script.Condition;
 import org.powerbot.script.Random;
 import org.powerbot.script.Tile;

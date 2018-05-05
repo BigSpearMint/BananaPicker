@@ -1,5 +1,7 @@
 package BananaPicker;
 
+import BananaPicker.Tasks.*;
+
 import org.powerbot.script.*;
 import org.powerbot.script.rt4.ClientContext;
 import org.powerbot.script.rt4.TilePath;
@@ -8,7 +10,6 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Timer;
 
 @Script.Manifest(
         name = "BananaPicker",
